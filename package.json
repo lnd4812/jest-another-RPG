@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "module 10 practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnd4812/jest-another-RPG.git"
+  },
+  "author": "lnd4812",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnd4812/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/lnd4812/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
